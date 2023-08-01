@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Shadow-De
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning programing languages
+👋 Developer | Tech Enthusiast | Explorer of code and possibilities | Open to collaborate | Let's build something awesome! 🚀
 
 
 <!---
